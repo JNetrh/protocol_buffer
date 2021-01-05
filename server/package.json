@@ -14,7 +14,7 @@
     "prettier": "cd ..; yarn prettier"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "backpack-core": "^0.8.4",
     "body-parser": "1.18.3",
     "cookie-parser": "^1.4.3",
